@@ -1,6 +1,6 @@
 {
   "name": "edools-ckeditor",
-  "version": "1",
+  "version": "1.0.1",
   "main": "ckeditor.js",
   "homepage": "https://github.com/Edools/ckeditor",
   "description": "JavaScript WYSIWYG web text editor.",
